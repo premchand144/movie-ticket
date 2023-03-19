@@ -1,10 +1,11 @@
 ## Below are  the required prerequisite to run the application
 * IDE IntelliJ IDEA 
-* Java 8
+* Java 1.8
 * Spring boot
 * Spring Boot JPA
 * Lombok
 * H2 in-memory database
+* postman collection V2.1
 
 ## In-memory database connection details
 * url=jdbc:h2:mem:moviedb
