@@ -15,4 +15,7 @@
 * database-platform=org.hibernate.dialect.H2Dialect
 * H2 Console URI - `/h2-console`
 
+## Discount logic is implemented into below files
+* com.demo.movieticket.services.impl.DiscountServiceImpl
+
 ## API specifications are mentioned in API Contracts.md
