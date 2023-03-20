@@ -12,5 +12,6 @@
 * password=movie
 * driver-class-name=org.h2.Driver
 * database-platform=org.hibernate.dialect.H2Dialect
+* H2 Console URI - `/h2-console`
 
 ## API specifications are mentioned in API Contracts.md
