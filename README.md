@@ -15,6 +15,10 @@
 * database-platform=org.hibernate.dialect.H2Dialect
 * H2 Console URI - `/h2-console`
 
+## SQL script locations - Data Models
+* DDL SQL Script location /resources/schema.sql
+* DML SQL Script location /resources/data.sql
+
 ## Discount logic is implemented into below files
 * com.demo.movieticket.services.impl.DiscountServiceImpl
 
